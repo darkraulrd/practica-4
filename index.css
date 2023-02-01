@@ -1,0 +1,30 @@
+body{
+    background-color: rgb(255, 255, 255);
+    color: rgb(4, 255, 0);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+h1{
+    font-size: 65px;
+    font-style: oblique;
+}
+
+p{
+    font-size: 15px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(0, 0, 0);
+}
+
+
+
+.destacado{
+    color: rgb(255, 0, 0);
+}
+
+
+#destacado p{
+    color: rgb(0, 0, 255);
+    font-weight: bold;
+}
+
+
